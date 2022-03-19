@@ -1,4 +1,4 @@
-# Python for automation
+# Python for automation of data analysis tasks
 
 Python scripts to improve workflow by automating basic analytical tasks
 
