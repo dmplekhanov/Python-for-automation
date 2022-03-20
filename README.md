@@ -8,3 +8,4 @@ Python scripts to improve workflow by automating basic analytical tasks
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
+| Get Multiples of a Number Using Modulus | [link](https://mathdatasimplified.com/2021/04/22/get-multiples-of-a-numbers-using-modulus/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/multiples_of_a_number.py)
