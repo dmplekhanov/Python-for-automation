@@ -6,3 +6,5 @@ Python scripts to improve workflow by automating basic analytical tasks
 - writing data into Excel file
 - searching for specific files in several subfolders
 
+| Title        | Explanation | Code  |
+| ------------- |:-------------:| :-----:|
